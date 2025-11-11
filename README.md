@@ -1,5 +1,6 @@
 # PROYECT-3
-CV [(https://claude.ai/public/artifacts/862dbb3f-ab6c-432a-8c09-3857c1b33bb6CV)](<!DOCTYPE html>
+CV 
+[[CV]][(https://claude.ai/public/artifacts/862dbb3f-ab6c-432a-8c09-3857c1b33bb6CV)](<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
